@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xml ֆայլը հայտարարում-->
+<users>
+    <user id="5d109b7a463a8" email="oneone@mail.ru">
+        <fname>oneone</fname>
+        <lname>oneone</lname>
+        <address>oneone</address>
+        <tel>098-76-54-44</tel>
+        <gender>female</gender>
+        <bday>2019-06-12</bday>
+        <pass>$1$SnEM.1fM$E5ivuCipwpv4TTwXWMqPU.</pass>
+        <avatar>5d10d609df59cIMG_0223.JPG</avatar>
+    </user>
+<user id="5d1a3c1642943" email="one@mail.ru"><fname>FirstName</fname><lname>LastName</lname><address>address</address><tel>000-00-00-00</tel><gender>male</gender><bday>2019-07-08</bday><pass>$1$0c6nNE19$Cgf/EohBGafeGq9PNuv3I1</pass><avatar>5d1a3c2dc7ce0111.jpg</avatar></user></users>

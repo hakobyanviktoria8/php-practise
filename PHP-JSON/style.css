@@ -1,0 +1,52 @@
+.error, h2{
+    color: #831bcd;
+}
+body{
+    background-image: url("Images/amazing-watercolor-texture-purple-color_1035-6666.jpg");
+    background-size: cover;
+}
+input{
+    width: 98%;
+    border-radius: 5px;
+    padding: 5px;
+}
+.nav-link{
+    color: #831bcd;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+.nav-link:hover{
+    background-color: #831bcd;
+    color: white;
+}
+h1{
+    color: black;
+    text-shadow: 0 0 10px #831bcd;
+    margin-left: 8%;
+}
+.gender{
+    width: 15%;
+}
+.btn-json, .btn-xml{
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    padding: 15px 30px;
+    font-size: 40px;
+    text-align: center;
+    border: 2px solid #831bcd;
+    box-shadow: 0 0 10px black ;
+    border-radius: 50%;
+    color: #831bcd;
+    text-decoration: none;
+}
+.btn-json{
+    left: 230px;
+}
+.btn-json:hover, .btn-xml:hover{
+    background-color: #831bcd;
+    color: white;
+}
+
+
